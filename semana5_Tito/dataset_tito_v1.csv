@@ -1,0 +1,121 @@
+texto	categoria
+¿Cómo solicito una beca?	becas
+¿Qué apoyos económicos ofrece la escuela?	becas
+¿Cuáles son las becas disponibles para este semestre?	becas
+¿Dónde entrego los documentos para la beca de transporte?	becas
+¿Cuándo sale la convocatoria de becas?	becas
+¿Cuáles son los requisitos para la beca alimenticia?	becas
+¿Dónde consulto los resultados de las becas?	becas
+¿Puedo renovar mi beca de excelencia académica?	becas
+¿Qué promedio mínimo necesito para conservar la beca?	becas
+¿A quién me dirijo si tengo problemas con el cobro de mi beca?	becas
+¿Existe alguna beca para estudiantes deportistas?	becas
+¿Cuándo depositan el apoyo socioeconómico?	becas
+¿Qué documentos me piden para la solicitud de beca?	becas
+¿Hay apoyo económico para personas con discapacidad?	becas
+¿Puedo solicitar dos becas al mismo tiempo?	becas
+¿A qué hora abre la biblioteca?	biblioteca
+¿Dónde se encuentra la biblioteca?	biblioteca
+¿Cómo puedo renovar el préstamo de un libro?	biblioteca
+¿Tienen computadoras disponibles en la biblioteca?	biblioteca
+¿Puedo prestar libros los fines de semana?	biblioteca
+¿Cuál es el catálogo digital de libros?	biblioteca
+¿Cuántos libros puedo pedir al mismo tiempo?	biblioteca
+¿Cuál es la multa si entrego un libro tarde?	biblioteca
+¿Tienen cubículos de estudio individual o grupal?	biblioteca
+¿Hay servicio de impresión en la biblioteca?	biblioteca
+¿Tienen libros en inglés para consulta?	biblioteca
+¿A qué hora cierra la biblioteca los viernes?	biblioteca
+¿Cómo tramito mi credencial para la biblioteca?	biblioteca
+¿Tienen zona de silencio en la biblioteca?	biblioteca
+¿Dónde puedo buscar una tesis o tesina escolar?	biblioteca
+¿Dónde pido una constancia?	control_escolar
+Necesito hacer un trámite escolar	control_escolar
+¿Cuál es el horario de atención de control escolar?	control_escolar
+¿Cómo tramito mi credencial de estudiante?	control_escolar
+¿Dónde solicito un kardex oficial?	control_escolar
+¿Qué costo tiene una constancia con calificaciones?	control_escolar
+¿Cómo puedo tramitar mi certificado de preparatoria?	control_escolar
+¿Dónde reporto que no aparezco en las listas oficiales?	control_escolar
+¿Cuál es el proceso para tramitar una baja temporal?	control_escolar
+¿Dónde se solicita el duplicado de credencial?	control_escolar
+¿Cuánto tarda en salir un certificado de estudios?	control_escolar
+¿Dónde me sello una carta responsiva?	control_escolar
+¿A qué número de teléfono me comunico con control escolar?	control_escolar
+¿Qué documentos piden para darme de baja?	control_escolar
+¿Cómo valido una boleta de calificaciones?	control_escolar
+¿Dónde puedo pedir orientación?	orientacion
+Necesito apoyo con una decisión académica	orientacion
+¿Con quién puedo hablar si me siento estresado?	orientacion
+¿Dónde está el departamento de tutorías?	orientacion
+¿Ofrecen ayuda con hábitos de estudio?	orientacion
+¿Cómo agendo una cita con el psicólogo escolar?	orientacion
+¿Hay talleres de manejo de ansiedad?	orientacion
+Siento que estoy reprimiendo materias y necesito consejo	orientacion
+¿Dónde me ayudan con la elección de carrera universitaria?	orientacion
+¿Hay servicio de orientación vocacional?	orientacion
+¿A quién acudo si sufro acoso escolar?	orientacion
+¿Quién es mi tutor asignado este semestre?	orientacion
+¿Dónde brindan canalización de apoyo médico o psicológico?	orientacion
+¿A quién me dirijo si tengo problemas familiares que afectan mis notas?	orientacion
+¿Atienden situaciones de crisis emocional en el plantel?	orientacion
+¿Cuál es mi horario de clases?	horarios
+¿Cuándo se publican los horarios del nuevo semestre?	horarios
+¿A qué hora empieza la primera clase?	horarios
+¿En qué aula me toca la clase de PLN?	horarios
+¿Dónde consulto mi lista de materias asignadas?	horarios
+¿Puedo cambiarme de turno matutino a vespertino?	horarios
+¿A qué hora termina la última hora de clase?	horarios
+¿Dónde puedo ver si hay cambios de salón?	horarios
+¿Por qué no puedo ver mis materias en el sistema?	horarios
+¿Cómo pido un cambio de grupo?	horarios
+¿A qué hora es el receso escolar?	horarios
+¿Quién me ayuda a resolver un cruce de horarios?	horarios
+¿Los horarios cambian durante los exámenes finales?	horarios
+¿Dónde reviso los salones de los laboratorios?	horarios
+¿Cuál es el horario del turno vespertino?	horarios
+¿Cuándo empiezan las inscripciones?	inscripciones
+¿Qué necesito para inscribirme?	inscripciones
+¿Cuál es el proceso de reinscripción para 3er semestre?	inscripciones
+¿Hasta qué fecha puedo pagar la inscripción?	inscripciones
+¿Dónde entrego los requisitos de inscripción?	inscripciones
+¿Cuál es el link para la ficha de inscripción?	inscripciones
+¿Qué pasa si no me reinscribo en la fecha indicada?	inscripciones
+¿Dónde consulto si fui aceptado en la escuela?	inscripciones
+¿Aceptan pagos de inscripción en efectivo?	inscripciones
+¿Qué documentos escaneados necesito subir para inscribirme?	inscripciones
+¿Cómo puedo solicitar una prórroga de pago de inscripción?	inscripciones
+¿Cuándo son las inscripciones extemporáneas?	inscripciones
+¿Dónde entrego mi certificado de secundaria para inscribirme?	inscripciones
+¿Cómo sé si completé mi proceso de inscripción correctamente?	inscripciones
+¿Puedo hacer el trámite de inscripción por internet?	inscripciones
+¿Dónde consulto mis calificaciones?	calificaciones
+Quiero aclarar una calificación	calificaciones
+¿Cuándo suben las notas del parcial?	calificaciones
+¿Dónde veo si reprobé alguna materia?	calificaciones
+¿Cómo solicito un examen extraordinario?	calificaciones
+¿Qué promedio llevo acumulado en el semestre?	calificaciones
+¿Hasta qué día los profesores suben calificaciones?	calificaciones
+¿Cómo puedo solicitar una revisión de mi examen?	calificaciones
+¿Dónde descargo mi boleta de parciales?	calificaciones
+¿A partir de qué nota es aprobatoria una materia?	calificaciones
+¿Qué hago si el profesor me puso falta o calificación incorrecta?	calificaciones
+¿Cuándo son las fechas de exámenes extraordinarios?	calificaciones
+¿Dónde puedo ver si tengo derecho a exentar un examen?	calificaciones
+¿Cuántas materias puedo reprobar antes de repetir semestre?	calificaciones
+¿Cómo calculo mi promedio general acumulado?	calificaciones
+¿Qué actividades hay esta semana?	actividades
+¿Hay clubes para estudiantes?	actividades
+¿Cuándo es el torneo deportivo de la escuela?	actividades
+¿Dónde me inscribo al taller de robótica?	actividades
+¿Qué eventos culturales habrá este mes?	actividades
+¿Cuándo se realiza la feria de ciencias?	actividades
+¿Cuáles son los talleres extracurriculares disponibles?	actividades
+¿Tienen equipo o club de fútbol?	actividades
+¿Dan créditos o puntos escolares por participar en talleres?	actividades
+¿Dónde se realizan los ensayos del grupo de teatro?	actividades
+¿Hay concurso de oratoria o debate?	actividades
+¿Cómo formo un nuevo club estudiantil en el plantel?	actividades
+¿A qué hora entrenan los equipos deportivos?	actividades
+¿Cuándo es la bienvenida a los alumnos de nuevo ingreso?	actividades
+¿Dónde publican las convocatorias para los eventos culturales?	actividades
